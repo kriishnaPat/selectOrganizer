@@ -24,7 +24,7 @@ namespace selectionSort
             for(int i=0; i<anArray.Length-1; i++){
                 int min = i;
                 for(int n=i+1; n<anArray.Length; n++){
-                    if(anArray[n].CompareTo(anArray[min])> 0){
+                    if(anArray[n].CompareTo(anArray[min]) < 0){
                         min = n;
                     }
                 }
@@ -39,7 +39,9 @@ namespace selectionSort
         static void Main(string[] args)
         {
             int[] nums = {10, 70, 30, 100, 40, 45, 90, 80, 85};
+            string[] words = {"dog","at", "good", "eye", "cat", "ball", "fish"};
             selectionSort(nums);
+            selectionSortStr(words);
         }
     }
 }
