@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.exe
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.deps.json
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.runtimeconfig.json
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.dll
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\ref\selectionSort.dll
+C:\Users\k.patel61\Desktop\selectionSort\bin\Debug\net5.0\selectionSort.pdb
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.dll
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\ref\selectionSort.dll
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.pdb
+C:\Users\k.patel61\Desktop\selectionSort\obj\Debug\net5.0\selectionSort.genruntimeconfig.cache
